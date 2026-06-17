@@ -166,6 +166,12 @@ Solution:
 
 ---
 
+## Demo
+<img width="1917" height="1011" alt="Screenshot 2026-06-17 124638" src="https://github.com/user-attachments/assets/910106c5-ac7d-43e8-ac2f-76745b6d1ca9" />
+<img width="1897" height="1017" alt="Screenshot 2026-06-17 124835" src="https://github.com/user-attachments/assets/c2366f80-9ee2-4371-8488-f7ccd5186f21" />
+
+---
+
 ## Author
 
 Alka A.S.
